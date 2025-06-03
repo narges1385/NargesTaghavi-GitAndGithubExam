@@ -9,6 +9,10 @@ public class DisplaySimpleFigureWithJava {
     public static void ninety() {
         System.out.println("* | | | | | *");
     }
+
+    public static void fourStar() {
+        System.out.println("    *****    ");
+    }
 }
 
 
